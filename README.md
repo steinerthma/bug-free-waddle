@@ -1,5 +1,9 @@
 # bug-free-waddle
+
 Exercise repo
 
-Exerise repo team-event --> becoming all hackers. or so.
-i change things. 
+Exerise repo team-event -- becoming all hackers. or so. i change things. this one won't work. why though.
+
+# Bin unsicher, wo ich da grad bin
+
+ist das jetzt ein Document? oder was ist das grad? ah ich verstehe. 
